@@ -1,6 +1,6 @@
-# atom easy-motion (redux) package
+# Easymotion Plus
 
-> MovementSpeed++. Jump to any word in your current view super fast.
+> Jump to any character with a speed of light ⚡️
 
 * * *
 
