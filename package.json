@@ -1,9 +1,9 @@
 {
-  "name": "easy-motion-redux",
+  "name": "easymotion-plus",
   "version": "1.1.1",
   "main": "./lib/main",
-  "description": "MovementSpeed++. Jump to any word in your current view super fast. (redux)",
-  "repository": "https://github.com/leny/atom-easy-motion-redux",
+  "description": "EasyMotion for atom editor",
+  "repository": "https://github.com/bogdan0083/atom-easy-motion-redux",
   "license": "MIT",
   "engines": {
     "atom": ">=1.2"
@@ -11,5 +11,12 @@
   "dependencies": {
     "atom-space-pen-views": "^2.0.5",
     "underscore-plus": "^1.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.13.0",
+    "prettier-eslint": "^8.8.2"
   }
 }
