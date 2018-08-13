@@ -9,6 +9,7 @@
     "atom": ">=1.2"
   },
   "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
