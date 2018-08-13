@@ -2,15 +2,14 @@
   "name": "easymotion-plus",
   "version": "1.1.1",
   "main": "./lib/main",
-  "description": "EasyMotion for atom editor",
-  "repository": "https://github.com/bogdan0083/atom-easy-motion-redux",
+  "description": "Move you cursor with speed! ⚡️",
+  "repository": "https://github.com/bogdan0083/atom-easymotion-plus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.2"
   },
   "dependencies": {
-    "atom-space-pen-views": "^2.0.5",
-    "underscore-plus": "^1.6.6"
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
