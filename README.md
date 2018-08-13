@@ -42,14 +42,14 @@ Select from current cursor position to given letter.
 
 ### Jump to words starting by letter
 
-**Command:** `easymotion-plus:words_starting`  
+**Command:** `easymotion-plus:words-starting`  
 Jump to words starting by given letter.
 
 <img src="./caps/mode-words-starting.gif" styles="text-align:center;">
 
 #### Select to words starting by letter
 
-**Command:** `easymotion-plus:words_starting-select`  
+**Command:** `easymotion-plus:words-starting-select`  
 Select from current cursor position to words starting by given letter.
 
 ## Keybindings
